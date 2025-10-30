@@ -23,7 +23,7 @@ const sampleProducts = [
     images: [
       {
         imageUrl:
-          'https://images.unsplash.com/photo-1524591698335-b3e912d4c252?auto=format&fit=crop&w=800&q=80',
+          'mandai_bottle.png',
         sortOrder: 0,
       },
     ],
@@ -40,7 +40,7 @@ const sampleProducts = [
     images: [
       {
         imageUrl:
-          'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80',
+          'mandai_tee2491.png',
         sortOrder: 0,
       },
     ],
@@ -57,7 +57,7 @@ const sampleProducts = [
     images: [
       {
         imageUrl:
-          'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80',
+          'mandai_kit.png',
         sortOrder: 0,
       },
     ],

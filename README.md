@@ -41,6 +41,7 @@ Mandai Wildlife Store is a modern e-commerce web application built as a monorepo
    - Create your Postgres database.
    - Copy `.env.example` from `api/` to `api/.env` and fill in your database credentials (database URL, JWT secrets).
    - Run migrations: `cd api && npx mikro-orm migration:up`
+   - You can use database.sql to manually insert the tables into your database.
 
 ## Running the Application
 
@@ -102,6 +103,7 @@ The frontend will be available at `http://localhost:5173` (Vite default), and th
 │       └── styles/      # Tailwind configuration
 ├── shared/              # Shared TypeScript types, DTOs, and constants
 └── docs/                # Documentation
+├── database.sql         # database tables to be used
 ```
 
 ## Testing
